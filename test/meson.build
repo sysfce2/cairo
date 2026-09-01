@@ -31,6 +31,7 @@ test_sources = [
   'bug-448.c',
   'bug-535.c',
   'bug-927.c',
+  'bug-976.c',
   'bug-51910.c',
   'bug-75705.c',
   'bug-84115.c',
